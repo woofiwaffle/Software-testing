@@ -1,3 +1,9 @@
+<p align = "center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PyCharm-2023.2.5-blue?style=plastic&logo=pycharm&logoColor=lightgreen&labelColor=black&color=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-2024?style=plastic&logo=Selenium&labelColor=black&color=%2343B02A">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PyTest-2024?style=plastic&logo=PyTest&labelColor=black&color=%230A9EDC">
+</p>
+
 # Test Automation
 
 1. practical1 --- Testing based on CSS locators
