@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Postman-2024?style=plastic&logo=Postman&labelColor=black&color=%23FF6C37">
+</p>
+
 # Web Application Testing
 
 1. practical1 --- Comprehensive testing of the client side of web applications
