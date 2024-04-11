@@ -1,5 +1,5 @@
 import unittest
-from IntroductionToSoftwareTesting.TestingWhiteBox.calculations import Calculations
+from PyTest.TestingWhiteBox.calculations import Calculations
 
 
 class TestCalculations(unittest.TestCase):
