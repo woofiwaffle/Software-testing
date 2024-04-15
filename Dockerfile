@@ -3,7 +3,7 @@
 #LABEL "pytest"="wwf"
 #LABEL "creator"="woofiwaffle"
 #
-#WORKDIR ./usr/PyTest
+#WORKDIR
 #
 #COPY . .
 #
