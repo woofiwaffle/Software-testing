@@ -4,7 +4,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/PyTest-2024?style=plastic&logo=PyTest&labelColor=black&color=%230A9EDC">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=1000&color=FFFFFFF7&random=false&width=375&lines=Test+Automation)](https://git.io/typing-svg)
+# Test Automation
 
 1. practical1 --- Testing based on CSS locators
 2. practical2 --- Finding Xpath locators using DevTools
