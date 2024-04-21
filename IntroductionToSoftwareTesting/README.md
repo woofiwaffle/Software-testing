@@ -1,4 +1,4 @@
-# Introduction to software testing
+# Introduction to Software Testing
 
 1. practical 1 --- Organization of the software development process in the cloud
                 project management system "Kaiten"

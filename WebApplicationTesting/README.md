@@ -1,6 +1,12 @@
 <p align="center">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-2024?style=plastic&logo=Postman&labelColor=black&color=%23FF6C37">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-2024?style=plastic&logo=Mysql&logoColor=%234479A1&labelColor=black&color=%234479A1">
+  <img alt="DevTools" src="https://img.shields.io/badge/DevTools-2024-a?style=plastic&labelColor=black&color=grey">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-10.24-a?style=plastic&logo=postman&labelColor=black&color=grey">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0.36-a?style=plastic&logo=mysql&labelColor=black&color=grey">
+</p>
+<p align="center">
+  <img alt="LightHouse" src="https://img.shields.io/badge/Lighthouse-100.0.0.3-a?style=plastic&logo=lighthouse&labelColor=black&color=grey">
+  <img alt="Apache JMeter" src="https://img.shields.io/badge/Apache%20JMeter-5.6.3-a?style=plastic&logo=apachejmeter&labelColor=black&color=grey">
+  <img alt="Charles" src="https://img.shields.io/badge/Charles-4.6.6-a?style=plastic&logo=charles&labelColor=black&color=grey">
 </p>
 
 # Web Application Testing
