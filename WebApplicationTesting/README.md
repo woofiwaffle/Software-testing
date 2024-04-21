@@ -1,6 +1,8 @@
 <p align="center">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-10.24-a?style=plastic&logo=postman&labelColor=black&color=grey">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0.36-a?style=plastic&logo=mysql&labelColor=black&color=grey">
+</p>
+<p align="center">
   <img alt="LightHouse" src="https://img.shields.io/badge/Lighthouse-100.0.0.3-a?style=plastic&logo=lighthouse&labelColor=black&color=grey">
   <img alt="Apache JMeter" src="https://img.shields.io/badge/Apache%20JMeter-5.6.3-a?style=plastic&logo=apachejmeter&labelColor=black&color=grey">
   <img alt="Charles" src="https://img.shields.io/badge/Charles-4.6.6-a?style=plastic&logo=charles&labelColor=black&color=grey">
