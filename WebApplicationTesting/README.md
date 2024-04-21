@@ -1,4 +1,5 @@
 <p align="center">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-2023.2.5-blue?style=plastic&logo=pycharm&logoColor=lightgreen&labelColor=black&color=grey">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-10.24-a?style=plastic&logo=postman&labelColor=black&color=grey">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0.36-a?style=plastic&logo=mysql&labelColor=black&color=grey">
 </p>
