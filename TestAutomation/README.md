@@ -1,6 +1,7 @@
 <p align = "center">
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-2023.2.5-blue?style=plastic&logo=pycharm&logoColor=lightgreen&labelColor=black&color=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/DevTools-2024-a?style=plastic&labelColor=black&color=grey">
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-3.17.2-a?style=plastic&logo=selenium&labelColor=black&color=grey">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-2023.2.5-blue?style=plastic&logo=pycharm&logoColor=lightgreen&labelColor=black&color=grey">
   <img alt="Pytest" src="https://img.shields.io/badge/PyTest-8.1.1-a?style=plastic&logo=pytest&labelColor=black&color=grey">
 </p>
 
