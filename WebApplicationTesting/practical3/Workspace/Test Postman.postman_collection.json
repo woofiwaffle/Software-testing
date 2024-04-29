@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "53a6821a-76ab-478c-b143-62ac7661ac62",
+		"name": "Test Postman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34560556"
+	},
+	"item": [
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://postman-echo.com/get?userId=123&type=VIP",
+					"protocol": "https",
+					"host": [
+						"postman-echo",
+						"com"
+					],
+					"path": [
+						"get"
+					],
+					"query": [
+						{
+							"key": "userId",
+							"value": "123"
+						},
+						{
+							"key": "type",
+							"value": "VIP"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

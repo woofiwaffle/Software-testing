@@ -1,0 +1,138 @@
+{
+	"info": {
+		"_postman_id": "0d3aa2cf-264e-4e1f-80d0-6378b0bc174e",
+		"name": "Google Map",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34560556"
+	},
+	"item": [
+		{
+			"name": "Create New Location",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"location\": {\r\n\"lat\": -38.383494,\r\n\"lng\": 33.427362\r\n}, \"accuracy\": 50,\r\n\"name\": \"Frontline house\",\r\n\"phone_number\": \"(+91) 983 893 3937\",\r\n\"address\": \"29, side layout, cohen 09\",\r\n\"types\": [\r\n\"shoe park\",\r\n\"shop\"\r\n],\r\n\"website\": \"http://google.com\",\r\n\"language\": \"French-IN\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123\r\r",
+					"protocol": "https",
+					"host": [
+						"rahulshettyacademy",
+						"com"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"add",
+						"json"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "qaclick123\r\r"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST New Location",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=9edc63fbac357710aff5f836742352f5",
+					"protocol": "https",
+					"host": [
+						"rahulshettyacademy",
+						"com"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"get",
+						"json"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "qaclick123"
+						},
+						{
+							"key": "place_id",
+							"value": "9edc63fbac357710aff5f836742352f5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Negative TEST New Location",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=9edc63fbac357710aff5f836742352",
+					"protocol": "https",
+					"host": [
+						"rahulshettyacademy",
+						"com"
+					],
+					"path": [
+						"maps",
+						"api",
+						"place",
+						"get",
+						"json"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "qaclick123"
+						},
+						{
+							"key": "place_id",
+							"value": "9edc63fbac357710aff5f836742352"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
