@@ -10,4 +10,4 @@
 2. ```practical1(Web).pdf``` --- Comprehensive testing of the client side of web applications
 3. ```practical2(Web).pdf``` --- Testing at the HTTP protocol level using DevTools
 4. ```practical3``` --- API testing using Postman
-5. ```practical4``` --- Use of AI in testing
+5. ```practical4(Web).pdf``` --- Use of AI in testing
