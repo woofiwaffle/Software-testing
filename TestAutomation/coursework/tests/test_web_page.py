@@ -7,7 +7,8 @@ import os
 from TestAutomation.coursework.pages.web_page import YouTubePage
 
 
-chrome_driver_path = os.path.abspath('../chromedriver-win64/chromedriver.exe')
+chrome_driver_path = os.path.abspath("C:/Users/User/PycharmProjects/software_testing/TestAutomation/"
+                                     "coursework/chromedriver-win64/chromedriver.exe")
 
 if not os.path.exists(chrome_driver_path):
     raise FileNotFoundError(f"Chromedriver not found at path: {chrome_driver_path}")

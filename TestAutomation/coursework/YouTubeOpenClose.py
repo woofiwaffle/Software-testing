@@ -3,7 +3,7 @@ import time
 from selenium.webdriver.chrome.service import Service as ChromeService
 
 # Путь к исполняемому файлу chromedriver.exe
-chrome_driver_path = 'TestAutomation/coursework/chromedriver-win64/chromedriver.exe'
+chrome_driver_path = ("C:/Users/User/PycharmProjects/software_testing/TestAutomation/coursework/chromedriver-win64/chromedriver.exe")
 
 # Создание сервиса Chrome
 chrome_service = ChromeService(executable_path=chrome_driver_path)
